@@ -20,9 +20,10 @@ The notebook covers data wrangling, handling missing values, outliers, transform
 ## ▶️ How to run
 
 You can get this project in two ways:
-A. **Option 1 – Using Git**
+A. 
+   **Option 1 – Using Git**
    Clone or download this repository:
-   git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git && cd NYPD-Shooting-Incident-Project
+   git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
 
    **Option 2 – Download as ZIP**
    1. Click the green Code button at the top of this repository
