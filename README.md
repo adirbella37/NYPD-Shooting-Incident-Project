@@ -9,7 +9,7 @@ The notebook covers data wrangling, handling missing values, outliers, transform
 ## 🌍 Interactive Map
 ![Heatmap preview](images/heatmap_preview.png)
 
-👉 [Open interactive Heatmap](https://adirbella37.github.io/NYPD-Shooting-Incident-Project/heatmap.html)
+👉 [Open Interactive Heatmap](https://adirbella37.github.io/NYPD-Shooting-Incident-Project/heatmap.html)
 
 ## ⚙️ Technologies
 - Python 
