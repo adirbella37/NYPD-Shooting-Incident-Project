@@ -4,7 +4,7 @@ This project analyzes shooting incidents in New York City using the NYPD dataset
 The notebook covers data wrangling, handling missing values, outliers, transformations, EDA, correlations, and visualizations.
 
 ## 📓 Notebook
-👉 [Open on nbviewer](https://nbviewer.org/github/adirbella37/NYPD-Shooting-Incident-Project/blob/main/NYPD_Shooting_Incident_Project.ipynb)
+👉 [Open on nbviewer](https://nbviewer.org/github/adirbella37/NYPD-Shooting-Incident-Project/blob/main/NYPD_Shooting_Incident_Project.ipynb?flush_cache=true)
 
 ## 🌍 Interactive Map
 ![Heatmap preview](images/heatmap_preview.png)
