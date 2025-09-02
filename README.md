@@ -24,7 +24,8 @@ You can get this project in two ways:
    **Option 1 – Using Git**
    
    Clone or download this repository:
-   git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
+   
+   https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
 
    **Option 2 – Download as ZIP**
    1. Click the green Code button at the top of this repository
