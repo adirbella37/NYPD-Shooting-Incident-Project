@@ -32,7 +32,7 @@ You can get this project in two ways:
    3. Extract the ZIP file on your computer
 
 B. Install the required Python packages:
-   pip install pandas matplotlib seaborn folium
+   pip install pandas, matplotlib, seaborn, folium
 
 C. Launch Jupyter Lab or Jupyter Notebook
 
