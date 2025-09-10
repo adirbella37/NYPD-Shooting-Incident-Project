@@ -22,8 +22,6 @@ The notebook covers data wrangling, handling missing values, outliers, transform
 You can get this project in two ways:
 
    **Option 1 – Using Git**
-
-   **Clone this repository**
    
    ```bash
    git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
