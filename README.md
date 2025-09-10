@@ -21,16 +21,18 @@ The notebook covers data wrangling, handling missing values, outliers, transform
 
 You can get this project in two ways:
 
-   **Option 1 – Using Git**
-   
-   ```bash
-   git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
-   cd NYPD-Shooting-Incident-Project
+**Option 1 – Using Git**
+
+```bash
+git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
+cd NYPD-Shooting-Incident-Project
 
 
-   **Option 2 – Download as ZIP**
-   1. Click the green Code button at the top of this repository
-   2. Select Download ZIP
-   3. Extract the ZIP file on your computer
+
+**Option 2 – Download as ZIP**
+
+  1. Click the green Code button at the top of this repository
+  2. Select Download ZIP
+  3. Extract the ZIP file on your computer
 
 
