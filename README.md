@@ -26,7 +26,7 @@ You can get this project in two ways:
 ```bash
 git clone https://github.com/adirbella37/NYPD-Shooting-Incident-Project.git
 cd NYPD-Shooting-Incident-Project
-
+```
 
 
 **Option 2 – Download as ZIP**
