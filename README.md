@@ -19,13 +19,14 @@ The notebook covers data wrangling, handling missing values, outliers, transform
 
 ## 📂 Project Structure
 
-| File/Folder                            | Description                              |
-|----------------------------------------|------------------------------------------|
-| `NYPD_Shooting_Incident_Project.ipynb` | Main Jupyter Notebook with full analysis |
-| `data.csv`                             | NYPD shooting dataset (CSV format)       |
-| `images/`                              | Saved charts and heatmap previews        |
-| `docs/`                                | Documentation files (optional)           |
-| `README.md`                            | Project description and instructions     |
+| File/Folder   | Description                                  |
+|---------------|----------------------------------------------|
+| `NYPD_Shooting_Incident_Project.ipynb` | Main Jupyter Notebook with the full analysis |
+| `data.csv`    | Dataset used for the project                 |
+| `docs/`       | Contains the interactive heatmap (`heatmap.html`) |
+| `images/`     | Contains images and previews used in the project |
+| `README.md`   | Project documentation                        |
+
 
 
 ## ▶️ How to run
