@@ -48,10 +48,10 @@ cd NYPD-Shooting-Incident-Project
   3. Extract the ZIP file on your computer
 
 ## 📈 Key Insights
-- Most shooting incidents occurred in Brooklyn and the Bronx.  
-- Summer months showed higher incident rates compared to winter.  
-- The majority of incidents happened at night (midnight–4 AM).  
-- Heatmap highlights specific hotspots in NYC with recurring incidents.  
+- Contrary to expectations, shooting incidents are almost evenly split between day and night.  
+- Incident rates rise steadily at the beginning of the year, peak in July, and then decline — likely due to targeted police intervention in Brooklyn.  
+- Surprisingly, around 70% of outdoor incidents involve older age groups, despite the assumption that they would exercise more discretion.  
+
 
 ## 📜 License
 This project is licensed under the MIT License.
