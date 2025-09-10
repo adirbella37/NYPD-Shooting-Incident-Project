@@ -15,7 +15,18 @@ The notebook covers data wrangling, handling missing values, outliers, transform
 - Python 
 - Pandas — data wrangling & preprocessing
 - Matplotlib & Seaborn — charts and visualizations
-- Folium — interactive heatmap 
+- Folium — interactive heatmap
+
+## 📂 Project Structure
+
+| File/Folder                            | Description                              |
+|----------------------------------------|------------------------------------------|
+| `NYPD_Shooting_Incident_Project.ipynb` | Main Jupyter Notebook with full analysis |
+| `data.csv`                             | NYPD shooting dataset (CSV format)       |
+| `images/`                              | Saved charts and heatmap previews        |
+| `docs/`                                | Documentation files (optional)           |
+| `README.md`                            | Project description and instructions     |
+
 
 ## ▶️ How to run
 
